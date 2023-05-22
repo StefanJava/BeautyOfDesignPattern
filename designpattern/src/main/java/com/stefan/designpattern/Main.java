@@ -1,4 +1,4 @@
-package com.stefan;
+package com.stefan.designpattern;
 
 public class Main {
     public static void main(String[] args) {
