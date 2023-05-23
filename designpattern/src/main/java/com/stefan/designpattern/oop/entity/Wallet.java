@@ -1,4 +1,4 @@
-package com.stefan.designpattern.oop;
+package com.stefan.designpattern.oop.entity;
 
 import com.stefan.designpattern.utils.IdGenerator;
 import exception.InsufficientAmountException;
